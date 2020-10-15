@@ -9,13 +9,13 @@
   </url>
   
   <url>
-    <loc>https://metacrobe.github.io/ccmi/tags/</loc>
+    <loc>https://metacrobe.github.io/ccmi/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://metacrobe.github.io/ccmi/</loc>
+    <loc>https://metacrobe.github.io/ccmi/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
