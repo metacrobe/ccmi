@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://metacrobe.github.io/ccmi/categories/</loc>
+    <loc>https://metacrobe.github.io/outreach/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://metacrobe.github.io/ccmi/</loc>
+    <loc>https://metacrobe.github.io/outreach/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://metacrobe.github.io/ccmi/tags/</loc>
+    <loc>https://metacrobe.github.io/outreach/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
