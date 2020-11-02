@@ -1,0 +1,37 @@
+---
+- group: Public Lectures
+  items:
+    - title: <b>The Isthmus of Panama</b> <br/>How it Changed the World <br/>On land & in the sea<br/><br/>
+      url: https://istmobiome.github.io/the-isthmus/the-isthmus.html
+      icon: fas fa-chalkboard-teacher
+    - title: <b>CACAO Fermentation</b><br/> The key step in making fine chocolate<br/><br/>
+      url: https://istmobiome.github.io/cacao/talk.html
+      icon: fas fa-chalkboard-teacher
+    - title: <b>Rethinking the Diversity of Life</b> <br/>A conceptual tour of the<br/> microbial world<br/><br/>
+      url: https://istmobiome.github.io/rethink-d/rethink-d.html
+      icon: fas fa-chalkboard-teacher
+- group: Publication Sites
+  items:
+    - title: <b>IstmoBiome</b> <br/><em>A microbial tale told in two oceans</em>
+      url: https://istmobiome.rbind.io/
+      icon: fas fa-dna
+    - title: <b>Hypocolypse</b> <br/> <em>Rapid ecosystem-scale consequences of acute deoxygenation on a Caribbean reef</em>
+      url: https://hypocolypse.github.io/
+      icon: fas fa-dna
+    - title: <b>BocasBiome</b> <br/><em>The gut microbiome stability of a butterflyfish is disrupted on severely degraded Caribbean reef habitats</em>
+      url: https://bocasbiome.github.io/
+      icon: fas fa-dna
+    - title: <b>ProjectDIGEST</b> <br/><em>Intestinal microbes as an axis of functional diversity among large marine consumers</em>
+      url: https://projectdigest.github.io/
+      icon: fas fa-dna
+- group: Courses & Workshops
+  items:
+    - title: <b>Web Products & Data Curation</b><br/>Online course created & taught during Lockdown 2020<br/> <br/><br/>
+      url: https://stri-con.github.io/data-curation/
+      icon: fa fa-pencil-alt
+    - title: <b>STRI-McGill Tropical Biology Field Course</b><br/>Web product guidebook & tutorials<br/> <br/><br/>
+      url: https://istmobiome.github.io/neo-bess/web-guide.html
+      icon: fas fa-pencil-alt
+    - title: <b>Marine Microbiome Workshop</b> <br/>Scaling-up host-microbe symbiosis in the sea, from model organisms to ecosystems<br/>
+      url: https://istmobiome.rbind.io/workshops/bocas-del-toro-panama-2018/
+      icon: fas fa-pencil-alt
